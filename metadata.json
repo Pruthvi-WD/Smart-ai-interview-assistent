@@ -1,0 +1,11 @@
+{
+  "name": "AI Smart Interview Assistant",
+  "description": "Executive mock interview platform with optical lip-movement speaker isolation, on-device NLP meeting minutes, and calibrated Easy/Medium/Hard domain tracks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
